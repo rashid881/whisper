@@ -39,6 +39,7 @@ nvidia-nvjitlink-cu12==12.6.68
 nvidia-nvtx-cu12==12.1.105
 openai-whisper @ git+https://github.com/openai/whisper.git@279133e3107392276dc509148da1f41bfb532c7e
 packaging==24.1
+pandas==2.2.2
 parso==0.8.4
 pexpect==4.9.0
 platformdirs==4.3.2
@@ -48,6 +49,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
+pytz==2024.2
 pyzmq==26.2.0
 rapidfuzz==3.9.7
 regex==2024.7.24
@@ -57,10 +59,12 @@ stack-data==0.6.3
 sympy==1.13.2
 tiktoken==0.7.0
 torch==2.4.1
+torchaudio==2.4.1
 tornado==6.4.1
 tqdm==4.66.5
 traitlets==5.14.3
 triton==3.0.0
 typing_extensions==4.12.2
+tzdata==2024.1
 urllib3==2.2.2
 wcwidth==0.2.13
