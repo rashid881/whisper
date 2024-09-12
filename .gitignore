@@ -1,1 +1,7 @@
 .venv
+*.txt
+*.wav
+*.vtt
+*.tsv
+*.srt
+*.json
